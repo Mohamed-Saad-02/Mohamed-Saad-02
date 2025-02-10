@@ -9,7 +9,7 @@
 - **Frontend:** React, Next.js, Vite, Tailwind CSS, Material UI, Bootstrap
 - **State Management:** Redux, Redux Persist
 - **Backend & Database:** Node.js, Express, MongoDB (Mongoose)
-- **Other:** Axios, Ant Design, DnD Kit
+- **Other:** Axios, Ant Design
 
 ## 🎯 What I Do:
 
