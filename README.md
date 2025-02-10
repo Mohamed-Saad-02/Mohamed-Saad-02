@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi there! I'm Mohamed Saad
+🚀 React Developer | Frontend Engineer
+💻 Passionate about building interactive and performant web applications.
 
-<!--
-**Mohamed-Saad-02/Mohamed-Saad-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Tech Stack:
+- **Frontend:** React, Next.js, Vite, Tailwind CSS, Material UI, Bootstrap  
+- **State Management:** Redux, Redux Persist  
+- **Backend & Database:** Node.js, Express, MongoDB (Mongoose)  
+- **Other:** Axios, Ant Design, DnD Kit  
 
-Here are some ideas to get you started:
+## 🎯 What I Do:
+✔️ Develop responsive and user-friendly web apps  
+✔️ Implement custom drag-and-drop features  
+✔️ Work with APIs and optimize performance  
+✔️ Build full-stack projects with modern technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Check out my projects on GitHub and let's connect!
