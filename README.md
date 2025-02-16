@@ -14,9 +14,8 @@
 ## 🎯 What I Do:
 
 ✔️ Develop responsive and user-friendly web apps\
-✔️ Implement custom drag-and-drop features\
 ✔️ Work with APIs and optimize performance\
-✔️ Build full-stack projects with modern technologies\
+✔️ Build full-stack projects with modern technologies
 
 
 🔗 Check out my projects on [GitHub](https://github.com/Mohamed-Saad-02?tab=repositories) and let's connect!
