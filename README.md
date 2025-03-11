@@ -20,5 +20,5 @@
 
 🔗 Check out my projects on [GitHub](https://github.com/Mohamed-Saad-02?tab=repositories) and let's connect!
 
-LinkedIn: [https://www.linkedin.com/in/mohamed-saad-025268304/](https://www.linkedin.com/in/mohamed-saad-025268304/)\
-WhatsApp (for professional inquiries only): +201032334278
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-saad-6a8248354/)\
+WhatsApp: [WhatsApp](https://wa.me/+201032334278)
